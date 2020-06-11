@@ -24,7 +24,7 @@ from Funk S et al, LSHTM CMMID nCoV Working Group, <br>
 - https://github.com/gabgoh/epcalc (Python)
 - https://github.com/cmmid/covid-uk (R, including Rcpp with C++ style scripts and Bayesian/bootstrapped uncertainty bounds)
 - https://github.com/cmmid/covidm_reports (R, with scenario modelling for various countries)
-- https://github.com/ImperialCollegeLondon/covid19model/tree/master (C++, Python, and R, including stan for Bayesian uncertainty)
+- https://github.com/ImperialCollegeLondon/covid19model/tree/master (C++, Python, and R, including stan for Bayesian uncertainty - this is a geospatial microsimulation model and requires significant RAM to run)
 
 
 # Recommended reading to learn modelling
