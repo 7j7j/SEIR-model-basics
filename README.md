@@ -1,5 +1,5 @@
 # SEIR model basics, assumptions, and interpretation
-Supporting materials for NHSEI mini huddle on 10 June
+Supporting materials for NHSEI COVID-19 Data Analytics community mini-huddle on 10 June
 - Slides including detailed references
 - Example basic and very stylised SEIR model for COVID-19 in Microsoft Excel
 
@@ -12,11 +12,11 @@ by Davies N et al, LSHTM CMMID nCoV Working Group <br>
 <b>Another alternative SEIR webapp with visual sliders</b> 
 by Gabriel Goh, <a href="https://gabgoh.github.io/COVID/">Epidemic Calculator</a>
 
-<b>An excellent example of an operational dashboard using SEIR dynamics mapped to real-time Trust data</b><br> 
+<b>An excellent example of an operational dashboard using SEIR dynamics that has been fit to real-time Trust & PHE data</b><br> 
 from the East London Health & Care Partnership - WEL Financial Strategy Team,<br> 
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmI2MjM4OTAtYTBmYS00MGNhLTgzOGEtYjJhNTg0NGY0ZWU4IiwidCI6ImQyMjc2ODJmLWFiNWEtNDlmNi04NzNhLThlZmQ1MDQ1ZjBmNCJ9">"NEL COVID-19 Demand Modelling Dashboard"</a>
 
-<b>Sub-national R0 estimates over time</b> 
+<b>Sub-national R0 estimates over time for the UK</b> 
 from Funk S et al, LSHTM CMMID nCoV Working Group, <br>
 <a href="https://epiforecasts.io/covid/posts/national/united-kingdom/"> “Temporal variation in transmission during the COVID-19 outbreak – Nationaland subnational estimates for the United Kingdom”</a>
 
