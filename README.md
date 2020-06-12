@@ -1,5 +1,5 @@
 # SEIR model basics, assumptions, and interpretation
-Supporting materials for NHSEI COVID-19 Data Analytics community mini-huddle on 10 June
+Supporting materials for NHSEI COVID-19 Data Analytics community mini-huddle on 10 June 2020
 - Slides including detailed references
 - Example basic and very stylised SEIR model for COVID-19 in Microsoft Excel
 
@@ -17,8 +17,7 @@ from the East London Health & Care Partnership - WEL Financial Strategy Team,<br
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmI2MjM4OTAtYTBmYS00MGNhLTgzOGEtYjJhNTg0NGY0ZWU4IiwidCI6ImQyMjc2ODJmLWFiNWEtNDlmNi04NzNhLThlZmQ1MDQ1ZjBmNCJ9">"NEL COVID-19 Demand Modelling Dashboard"</a>
 
 <b>Sub-national R0 estimates over time for the UK</b> 
-from Funk S et al, LSHTM CMMID nCoV Working Group, <br>
-<a href="https://epiforecasts.io/covid/posts/national/united-kingdom/"> “Temporal variation in transmission during the COVID-19 outbreak – Nationaland subnational estimates for the United Kingdom”</a>
+from Funk S et al, LSHTM CMMID nCoV Working Group, <a href="https://epiforecasts.io/covid/posts/national/united-kingdom/"> “Temporal variation in transmission during the COVID-19 outbreak – National and subnational estimates for the United Kingdom”</a>
 
 <br>Various Python and R repositories exist for S(E)IR models </br>, including for the above examples, e.g.
 - https://github.com/gabgoh/epcalc (Python)
@@ -35,6 +34,6 @@ my LSHTM colleagues in the Centre for Mathematical Modelling of Infectious Disea
 Check it out: https://cmmid.github.io/topics/covid19/
 
 
-Many thanks to Jason Pickles and Sophie Hodges from NHSE/I for inviting and coordinating to the 10 June 2020 mini-huddle.
+Many thanks to Jason Pickles and Sophie Hodges from NHSE/I for inviting and coordinating to the mini-huddle.
 Recording is on FutureNHS.
 All queries and corrections welcome to julia dot shen dot 1 at lshtm dot ac dot uk
